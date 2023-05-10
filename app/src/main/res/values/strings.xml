@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tourist Attractions</string>
+
+    <string name="loading">Loading...</string>
+    <string name="success">Success</string>
+    <string name="booking_btn">Book Now</string>
+    <string name="remove_booking_btn">Remove Booking</string>
+    <string name="ok">OK</string>
+</resources>
